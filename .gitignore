@@ -1,0 +1,4 @@
+/src/main
+main.o
+sfml-app
+.vscode
